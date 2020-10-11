@@ -20,6 +20,8 @@ import crafttweaker.oredict.IOreDictEntry;
     var netherStar = <minecraft:nether_star>;
     var draconicFluxCap = <draconicevolution:draconium_capacitor:1>.withTag({DEUpgrades:{rfCap:4 as byte},Energy:768000000});
     var infCat = <avaritia:resource:5>;
+    var rainbowGen = <extrautils2:rainbowgenerator>;
+    var singularity = <appliedenergistics2:material:48>;
 
     //Creative Energy Cell
 

@@ -166,6 +166,7 @@ dimdoors:limbo
 dimdoors:white_void
 dimdoors:black_void
 dimdoors:dangerous_black_void
+futureminecraf:frozenocean
 wildnature:bialowieza_forest
 wildnature:snowy_bialowieza_forest
 wildnature:pine_forest

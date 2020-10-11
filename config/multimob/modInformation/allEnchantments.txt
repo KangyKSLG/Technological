@@ -40,11 +40,11 @@ openblocks:last_stand
 openblocks:flim_flam
 endercore:xpboost
 endercore:autosmelt
-enderio:soulbound
+enderio:witherarrow
 enderio:witherweapon
 enderio:shimmer
-enderio:witherarrow
 enderio:repellent
+enderio:soulbound
 matteroverdrive:overclock
 spartanweaponry:throwing_range
 spartanweaponry:throwing_damage

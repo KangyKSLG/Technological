@@ -1,0 +1,18 @@
+{
+  "parent": "builtin/image",
+  "image": "customloadingscreen:textures/bg_image.png",
+  "position_type": "CENTER",
+  "offset_pos": "CENTER",
+  "position": {
+    "x": "0",
+    "y": "0",
+    "width": "500",
+    "height": "254"
+  },
+  "texture": {
+    "x": "0",
+    "y": "0",
+    "width": "1",
+    "height": "1"
+  }
+}

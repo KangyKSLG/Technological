@@ -80,6 +80,7 @@ cyclicmagic:potion.frostwalker
 cyclicmagic:potion.butter
 cyclicmagic:potion.stunned
 cyclicmagic:potion.saturation
+futureminecraf:slowfall
 industrialwires:tinnitus
 extrautils2:effect.xu2.doom
 extrautils2:effect.xu2.gravity

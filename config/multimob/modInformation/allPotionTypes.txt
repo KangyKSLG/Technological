@@ -38,13 +38,13 @@ minecraft:luck
 randomthings:collapse
 randomthings:long_collapse
 randomthings:strong_collapse
-enderio:confusion
-enderio:long_confusion
+enderio:withering
+enderio:long_withering
 enderio:floating
 enderio:strong_floating
 enderio:long_floating
-enderio:withering
-enderio:long_withering
+enderio:confusion
+enderio:long_confusion
 netherex:freezing
 netherex:frigid_health
 netherex:dispersal
@@ -160,6 +160,7 @@ cyclicmagic:wither
 cyclicmagic:blindness
 cyclicmagic:saturation
 cyclicmagic:hunger
+futureminecraf:slowfall
 extrautils2:xu2.doom
 extrautils2:xu2.gravity
 extrautils2:xu2.gravity.long
