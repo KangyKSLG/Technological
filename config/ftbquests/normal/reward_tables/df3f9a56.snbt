@@ -1,0 +1,20 @@
+{
+	title: "Common Crate",
+	icon: {
+		id: "ftbquests:lootcrate",
+		tag: {
+			type: "loot"
+		}
+	},
+	loot_size: 1,
+	rewards: [],
+	loot_crate: {
+		string_id: "loot",
+		color: 16777215,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 1
+		}
+	}
+}
