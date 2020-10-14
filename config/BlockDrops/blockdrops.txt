@@ -150,21 +150,6 @@
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
   },
   {
-    "name": "integrateddynamics:menril_leaves",
-    "meta": 0,
-    "length": 1,
-    "name0": "integrateddynamics:menril_sapling",
-    "meta0": 0,
-    "0chance0": 4.5499997,
-    "1chance0": 6.65,
-    "2chance0": 8.525,
-    "3chance0": 10.125,
-    "0pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "2pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
-  },
-  {
     "name": "mekanism:saltblock",
     "meta": 0,
     "length": 1,
@@ -1453,31 +1438,6 @@
     "1pair0": "{\n  \"left\": 2,\n  \"right\": 8\n}",
     "2pair0": "{\n  \"left\": 2,\n  \"right\": 12\n}",
     "3pair0": "{\n  \"left\": 2,\n  \"right\": 16\n}"
-  },
-  {
-    "name": "integrateddynamics:menril_log_filled",
-    "meta": 0,
-    "length": 2,
-    "name0": "integrateddynamics:menril_log",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 100.0,
-    "2chance0": 100.0,
-    "3chance0": 100.0,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "name1": "integrateddynamics:crystalized_menril_chunk",
-    "meta1": 0,
-    "0chance1": 200.7,
-    "1chance1": 249.09999,
-    "2chance1": 300.32498,
-    "3chance1": 353.44998,
-    "0pair1": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "1pair1": "{\n  \"left\": 1,\n  \"right\": 4\n}",
-    "2pair1": "{\n  \"left\": 1,\n  \"right\": 5\n}",
-    "3pair1": "{\n  \"left\": 1,\n  \"right\": 6\n}"
   },
   {
     "name": "iceandfire:frozen_grass_path",
@@ -5693,5 +5653,35 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
+  },
+  {
+    "name": "advancedrocketry:charcoallog",
+    "meta": 0,
+    "length": 1,
+    "name0": "minecraft:coal",
+    "meta0": 1,
+    "0chance0": 100.0,
+    "1chance0": 100.0,
+    "2chance0": 150.025,
+    "3chance0": 200.55,
+    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "2pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
+    "3pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}"
+  },
+  {
+    "name": "advancedrocketry:alienleaves",
+    "meta": 0,
+    "length": 1,
+    "name0": "advancedrocketry:aliensapling",
+    "meta0": 0,
+    "0chance0": 5.375,
+    "1chance0": 6.5499997,
+    "2chance0": 7.825,
+    "3chance0": 9.875,
+    "0pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
+    "1pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
+    "2pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
+    "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   }
 ]

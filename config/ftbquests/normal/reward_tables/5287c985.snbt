@@ -100,7 +100,8 @@
 	{
 		item: {
 			id: "botania:lexicon",
-			tag: {}
+			tag: {},
+			Count: 1b
 		}
 	},
 	{
@@ -257,7 +258,8 @@
 	{
 		item: {
 			id: "chesttransporter:chesttransporter_gold",
-			tag: {}
+			tag: {},
+			Count: 1b
 		}
 	},
 	{
@@ -275,7 +277,8 @@
 			ForgeCaps: {
 				Parent: {}
 			},
-			id: "yabba:upgrade_iron_tier"
+			id: "yabba:upgrade_iron_tier",
+			Count: 1b
 		},
 		count: 2
 	},
@@ -299,7 +302,8 @@
 			id: "fluidcows:cow_displayer",
 			tag: {
 				fluid: "milk"
-			}
+			},
+			Count: 1b
 		}
 	},
 	{
@@ -307,7 +311,8 @@
 			id: "fluidcows:cow_displayer",
 			tag: {
 				fluid: "water"
-			}
+			},
+			Count: 1b
 		}
 	},
 	{
