@@ -81,6 +81,16 @@ minecraft:llama_spit
 minecraft:parrot
 minecraft:villager
 minecraft:ender_crystal
+advancedrocketry:mountdummy
+advancedrocketry:rocket
+advancedrocketry:lasernode
+advancedrocketry:deployedrocket
+advancedrocketry:arabducteditem
+advancedrocketry:arplanetuiitem
+advancedrocketry:arplanetuibutton
+advancedrocketry:arstaruibutton
+advancedrocketry:arspaceelevatorcapsule
+advancedrocketry:arhovercraft
 thermalfoundation:blizz
 thermalfoundation:blitz
 thermalfoundation:basalz
@@ -137,7 +147,6 @@ extrautils2:chunkdata
 fluxnetworks:flux
 immersivepetroleum:speedboat
 industrialforegoing:pink_slime
-integrateddynamics:entityitemtargetted
 mysticalagriculture:inferium_arrow
 mysticalagriculture:prudentium_arrow
 mysticalagriculture:intermedium_arrow
@@ -232,8 +241,8 @@ appliedenergistics2:appeng.entity.entitytinytntprimed
 appliedenergistics2:appeng.entity.entitygrowingcrystal
 appliedenergistics2:appeng.entity.entitysingularity
 appliedenergistics2:appeng.entity.entitychargedquartz
-enderio:primed_charge
 enderio:owl_egg
+enderio:primed_charge
 enderio:falling_machine
 projecte:water_projectile
 projecte:lava_projectile

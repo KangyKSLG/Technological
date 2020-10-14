@@ -6,7 +6,8 @@
 			id: "fluidcows:cow_displayer",
 			tag: {
 				fluid: "stone"
-			}
+			},
+			Count: 1b
 		}
 	},
 	{
@@ -14,7 +15,8 @@
 			id: "fluidcows:cow_displayer",
 			tag: {
 				fluid: "lava"
-			}
+			},
+			Count: 1b
 		}
 	},
 	{
@@ -133,7 +135,8 @@
 			id: "botania:specialflower",
 			tag: {
 				type: "puredaisy"
-			}
+			},
+			Count: 1b
 		}
 	},
 	{

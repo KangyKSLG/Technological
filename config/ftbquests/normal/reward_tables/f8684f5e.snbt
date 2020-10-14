@@ -51,7 +51,8 @@
 	{
 		item: {
 			id: "notenoughwands:acceleration_wand",
-			tag: {}
+			tag: {},
+			Count: 1b
 		}
 	},
 	{
@@ -91,7 +92,8 @@
 			id: "botania:specialflower",
 			tag: {
 				type: "endoflame"
-			}
+			},
+			Count: 1b
 		},
 		count: 2
 	},

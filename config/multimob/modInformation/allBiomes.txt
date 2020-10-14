@@ -64,7 +64,6 @@ randomthings:spectral
 jeid:error_biome
 appliedenergistics2:storage_biome
 iceandfire:glacier
-integrateddynamics:biome_meneglin
 netherex:ruthless_sands
 netherex:fungi_forest
 netherex:torrid_wasteland
@@ -161,6 +160,18 @@ nt:glacier
 nt:icy_tundra
 nt:snowdune
 nt:tundra
+advancedrocketry:moon
+advancedrocketry:alien forest
+advancedrocketry:hotdryrock
+advancedrocketry:space
+advancedrocketry:stormland
+advancedrocketry:crystalchasms
+advancedrocketry:deepswamp
+advancedrocketry:marsh
+advancedrocketry:oceanspires
+advancedrocketry:moondark
+advancedrocketry:volcanic
+advancedrocketry:volcanicbarren
 aroma1997sdimension:miningbiome
 dimdoors:limbo
 dimdoors:white_void
