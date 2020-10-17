@@ -1,0 +1,47 @@
+{
+	title: "Making a stone pickaxe",
+	x: -16.0d,
+	y: -4.5d,
+	text: [
+		"In your Stencil Table, make a pickaxe stencil, a tool binding stencil and a tool rod stencil. ",
+		"Now go to your Parts Builder and make a pickaxe head out of stone, a tool rod from wood and a tool binding from wood. Combine them in the Tool Station to make your pickaxe"
+	],
+	dependencies: [
+		"55279755"
+	],
+	tasks: [{
+		uid: "68eb5019",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "stone"
+			}
+		}]
+	},
+	{
+		uid: "0c24cc79",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "wood"
+			}
+		}]
+	},
+	{
+		uid: "71a633e3",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "wood"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "b7387b44",
+		type: "random",
+		table: 4
+	}]
+}

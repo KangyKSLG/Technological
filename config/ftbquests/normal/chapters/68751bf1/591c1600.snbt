@@ -1,0 +1,25 @@
+{
+	title: "Obsidian Sharpening Kit",
+	x: -16.0d,
+	y: -1.0d,
+	text: [
+		"The next upgrade for your Stone pickaxe is to add an obsidian sharpening kit on it. This raises the mining level of your pcikaxe to cobalt level.",
+		"This is the highest you'll need to mine any ore in the game.",
+		"To get obsidian in the smeltery, put a bucket of water in by right clicking it on the drain and do the same with a bucket of lava.",
+		"They will combine inside to make obsidian. You can then cast this into a sharpening kit cast to get the Obsidian Sharpening Kit.",
+		"Combine this, 1 flint and your pickaxe in a Tool Station as before to upgrade your pickaxe"
+	],
+	dependencies: [
+		"5724db8e"
+	],
+	tasks: [{
+		uid: "cde7bf8b",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "obsidian"
+			}
+		}]
+	}]
+}

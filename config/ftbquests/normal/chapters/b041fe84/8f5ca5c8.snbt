@@ -1,0 +1,24 @@
+{
+	title: "Inferium Seed Tier 4",
+	x: -20.0d,
+	y: -8.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"634f3b3b",
+		"86f7e2ba"
+	],
+	tasks: [{
+		uid: "0861474a",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:tier4_inferium_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "658985c1",
+		type: "random",
+		table: 4
+	}]
+}

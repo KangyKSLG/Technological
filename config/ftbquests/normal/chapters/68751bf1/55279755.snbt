@@ -1,0 +1,76 @@
+{
+	title: "Tinker's Tables",
+	x: -14.5d,
+	y: -7.0d,
+	shape: "gear",
+	text: [
+		"Once you have a base of operations, get yourself a set of tinkers tables and a pattern chest.",
+		"Set them up in order to connect them as a basic \"Multi-block\"",
+		"The order is Crafting Station, Stencil Table, Pattern Chest, Part Builder, Tool Station"
+	],
+	dependencies: [
+		"268c6b09"
+	],
+	tasks: [{
+		uid: "ad53b20d",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables"
+		}],
+		only_from_crafting: false
+	},
+	{
+		uid: "4b17782e",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "369dba8c",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 4"
+		}]
+	},
+	{
+		uid: "228bde34",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}],
+		consume_items: false,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "81297be7",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 3"
+		}],
+		ignore_nbt: 1b,
+		only_from_crafting: false
+	}],
+	rewards: [{
+		uid: "aaf389b2",
+		type: "random",
+		table: 4
+	}]
+}

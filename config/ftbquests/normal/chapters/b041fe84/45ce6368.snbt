@@ -1,0 +1,19 @@
+{
+	x: -25.5d,
+	y: 1.0d,
+	dependencies: [
+		"42d6c03e"
+	],
+	tasks: [{
+		uid: "cb40851e",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:water_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "f0dcb4eb",
+		type: "random",
+		table: 4
+	}]
+}

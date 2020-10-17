@@ -1,0 +1,52 @@
+{
+	x: -14.0d,
+	y: -2.0d,
+	dependencies: [
+		"1443c520"
+	],
+	tasks: [{
+		uid: "cab0374f",
+		type: "item",
+		items: [{
+			id: "mysticaladaptations:insanium_helmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "77b26a7d",
+		type: "item",
+		items: [{
+			id: "mysticaladaptations:insanium_chestplate",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "889b703a",
+		type: "item",
+		items: [{
+			id: "mysticaladaptations:insanium_leggings",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a5480413",
+		type: "item",
+		items: [{
+			id: "mysticaladaptations:insanium_boots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "894b0331",
+		type: "random",
+		table: 4
+	}]
+}

@@ -1,0 +1,52 @@
+{
+	title: "Intermedium Armour",
+	x: -20.0d,
+	y: -2.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"479890ce"
+	],
+	tasks: [{
+		uid: "c35e0388",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:intermedium_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "616c61d9",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:intermedium_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fb2aa9bc",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:intermedium_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b1358cfd",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:intermedium_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a0be3a29",
+		type: "random",
+		table: 4
+	}]
+}

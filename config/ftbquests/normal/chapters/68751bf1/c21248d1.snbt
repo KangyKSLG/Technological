@@ -1,0 +1,48 @@
+{
+	title: "Your First Machines",
+	x: -12.0d,
+	y: -3.5d,
+	text: [
+		"By this point you should have a good amount of resources to get you moving into your first machines.",
+		"I recommend starting with EnderIO as it allows for early game steel production and is faster than a blast furnace.",
+		"Once you build the 4 machines place them so the Simple Stirling Generator is in the middle and the other 3 machines are touching it.",
+		"This should automatically transfer power into the machines touching the Simple Sterling Generator",
+		"(WARNING: Don't put too much coal in the generator. The Simple version of the EnderIO machines leak power meaning you will burn though coal without using the machines"
+	],
+	dependencies: [
+		"a322a92b"
+	],
+	tasks: [{
+		uid: "86f19070",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_stirling_generator"
+		}]
+	},
+	{
+		uid: "859ab9f3",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_sag_mill"
+		}]
+	},
+	{
+		uid: "169ef30d",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_alloy_smelter"
+		}]
+	},
+	{
+		uid: "ebb4a917",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "8bcfc2cb",
+		type: "random",
+		table: 4
+	}]
+}

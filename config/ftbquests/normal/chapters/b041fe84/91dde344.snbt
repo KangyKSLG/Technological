@@ -1,0 +1,52 @@
+{
+	x: -16.0d,
+	y: -2.0d,
+	dependencies: [
+		"ec91a252"
+	],
+	tasks: [{
+		uid: "b69f9506",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:supremium_helmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4648ae97",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:supremium_chestplate",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a1edf1a1",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:supremium_leggings",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fe0b47b0",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:supremium_boots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8143b355",
+		type: "random",
+		table: 4
+	}]
+}

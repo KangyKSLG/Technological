@@ -1,0 +1,20 @@
+{
+	x: -14.0d,
+	y: -4.0d,
+	dependencies: [
+		"ec91a252",
+		"24c663a9"
+	],
+	tasks: [{
+		uid: "54fd5d8a",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:insanium 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "37bd3dec",
+		type: "random",
+		table: 4
+	}]
+}
