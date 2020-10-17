@@ -1,0 +1,20 @@
+{
+	title: "Alloying Introduction",
+	x: -12.0d,
+	y: -5.5d,
+	text: [
+		"Now you have your first EnderIO machines up and running you can create alloys.",
+		"The first alloy we are going to make is Conductive Iron so we can make some energy conduits.",
+		"1 iron and 1 redstone will make 1 conductive iron"
+	],
+	dependencies: [
+		"c21248d1"
+	],
+	tasks: [{
+		uid: "10999847",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 160"
+		}]
+	}]
+}

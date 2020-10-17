@@ -241,9 +241,13 @@ appliedenergistics2:appeng.entity.entitytinytntprimed
 appliedenergistics2:appeng.entity.entitygrowingcrystal
 appliedenergistics2:appeng.entity.entitysingularity
 appliedenergistics2:appeng.entity.entitychargedquartz
+<<<<<<< Updated upstream
 enderio:owl_egg
+=======
+>>>>>>> Stashed changes
 enderio:primed_charge
 enderio:falling_machine
+enderio:owl_egg
 projecte:water_projectile
 projecte:lava_projectile
 projecte:mob_randomizer
@@ -374,9 +378,9 @@ thermaldynamics:transport
 actuallyadditions:worm
 p455w0rdslib:sitting_entity
 creativecore:sit
-forestry:butterflyge
 forestry:cart.beehouse
 forestry:cart.apiary
+forestry:butterflyge
 immersiveengineering:revolvershot
 immersiveengineering:skylinehook
 immersiveengineering:revolvershothoming

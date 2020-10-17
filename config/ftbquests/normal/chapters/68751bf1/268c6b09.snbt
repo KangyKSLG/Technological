@@ -1,0 +1,23 @@
+{
+	title: "Welcome",
+	x: -16.0d,
+	y: -6.5d,
+	shape: "gear",
+	text: [
+		"Welcome to Technological! You will have noticed by now that would have been given several useful items to get you started.",
+		"The Kappa pick has a huge 35,000 ish durability but only have an iron mining level. This pick should last you a good while!",
+		"The bag has a pretty modest capacity and should help on those gruelling mining trips.",
+		"The waystone will help you with early game teleportaton. Villages also have way stones that can be activiated to teleport between or you can harvest them and place them where you like!"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "9957694b",
+		type: "checkmark",
+		title: "Okay!"
+	}],
+	rewards: [{
+		uid: "153267c4",
+		type: "random",
+		table: 4
+	}]
+}

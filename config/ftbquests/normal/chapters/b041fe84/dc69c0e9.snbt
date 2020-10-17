@@ -1,0 +1,21 @@
+{
+	x: -26.0d,
+	y: -6.0d,
+	dependencies: [
+		"dcc30f3e"
+	],
+	tasks: [{
+		uid: "4e6d513d",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:infusion_crystal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cdef2c12",
+		type: "random",
+		table: 4
+	}]
+}

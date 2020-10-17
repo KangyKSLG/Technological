@@ -1,0 +1,24 @@
+{
+	title: "Inferium Seed Tier 6",
+	x: -16.0d,
+	y: -8.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"7754816a",
+		"24c663a9"
+	],
+	tasks: [{
+		uid: "379e5ab6",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:tier6_inferium_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "0ff80892",
+		type: "random",
+		table: 4
+	}]
+}

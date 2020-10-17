@@ -9,6 +9,10 @@ HILLS
 FOREST
 CONIFEROUS
 COLD
+<<<<<<< Updated upstream
+=======
+WET
+>>>>>>> Stashed changes
 SWAMP
 WET
 RIVER
@@ -16,8 +20,8 @@ NETHER
 END
 SNOWY
 WASTELAND
-MUSHROOM
 RARE
+MUSHROOM
 BEACH
 DENSE
 JUNGLE

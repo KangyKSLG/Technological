@@ -39,13 +39,20 @@ openblocks:explosive
 openblocks:last_stand
 openblocks:flim_flam
 advancedrocketry:spacebreathing
+<<<<<<< Updated upstream
 endercore:autosmelt
 endercore:xpboost
 enderio:witherweapon
+=======
+endercore:xpboost
+endercore:autosmelt
+enderio:repellent
+>>>>>>> Stashed changes
 enderio:witherarrow
 enderio:soulbound
 enderio:shimmer
-enderio:repellent
+enderio:soulbound
+enderio:witherweapon
 matteroverdrive:overclock
 spartanweaponry:throwing_range
 spartanweaponry:throwing_damage

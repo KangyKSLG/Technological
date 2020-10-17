@@ -1,0 +1,24 @@
+{
+	title: "Inferium Seed Tier 5",
+	x: -18.0d,
+	y: -8.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"8f5ca5c8",
+		"d31a5598"
+	],
+	tasks: [{
+		uid: "aaf07387",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:tier5_inferium_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "0edbb5fe",
+		type: "random",
+		table: 4
+	}]
+}
