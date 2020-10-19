@@ -158,10 +158,14 @@ recipes.addShaped(<thermalfoundation:material:295>, [
 
 //Duplicate Silicon
 mods.jei.JEI.removeAndHide(<refinedstorage:silicon>);
+
+//Duplicate Silicon
+mods.jei.JEI.removeAndHide(<appliedenergistics2:material:5>);
 mods.jei.JEI.removeAndHide(<enderio:item_material:5>);
 
 var refinedStorageSilicon = <refinedstorage:silicon>;
 var siliconEssence = <mysticalagriculture:silicon_essence>;
+
 var aeSilicon = <appliedenergistics2:material:5>;
 
 //Add recipe for Silicon from silicon essence
