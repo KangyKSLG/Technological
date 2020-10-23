@@ -5,7 +5,8 @@
 	text: [
 		"Cast an iron sharpening kit from the smeltery. ",
 		"This can be done by putting a stone sharpening kit onto a casting table and dumping 2 ingots worth of gold on it. This creates the sharpening kit cast.",
-		"Once you've make the sharpening kit, combine the stone pickaxe you made earlier with a piece of filnt and the iron sharpening kit in the tool station.",
+		"Now you have a cast, add 2 ingots of iron into the smeltery and pour it into the sharpening kit cast.",
+		"Once you've make the sharpening kit, combine the stone pickaxe you made earlier with a piece of flint and the iron sharpening kit in the tool station.",
 		"This will increase the mining level of your stone pick but still enable it to be repaired with stone sharpening kits"
 	],
 	dependencies: [

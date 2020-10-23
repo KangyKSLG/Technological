@@ -8,7 +8,7 @@
 		"Around 50% of the time youll hear a pop. This is the Grains of Infinity being created. Collect 20+ for now"
 	],
 	dependencies: [
-		"591c1600"
+		"75b7337b"
 	],
 	tasks: [{
 		uid: "a9ffe03d",

@@ -1,0 +1,33 @@
+{
+	title: "The Mining Dimension",
+	x: -14.5d,
+	y: -0.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"591c1600"
+	],
+	tasks: [{
+		uid: "25193546",
+		type: "item",
+		items: [{
+			item: "aroma1997sdimension:portalframe"
+		}],
+		count: 12L
+	},
+	{
+		uid: "b7b963bb",
+		type: "item",
+		items: [{
+			item: "aroma1997sdimension:miningmultitool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a9ab3ef1",
+		type: "random",
+		table: 4
+	}]
+}

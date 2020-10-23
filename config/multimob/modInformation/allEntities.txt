@@ -113,6 +113,7 @@ avaritia:gaping_void
 avaritia:heaven_arrow
 avaritia:heaven_sub_arrow
 ichunutil:entity_block
+bibliocraft:biblioseat
 buildinggadgets:blockbuildentity
 buildinggadgets:constructionblockentity
 cyclicmagic:robot
@@ -241,10 +242,6 @@ appliedenergistics2:appeng.entity.entitytinytntprimed
 appliedenergistics2:appeng.entity.entitygrowingcrystal
 appliedenergistics2:appeng.entity.entitysingularity
 appliedenergistics2:appeng.entity.entitychargedquartz
-<<<<<<< Updated upstream
-enderio:owl_egg
-=======
->>>>>>> Stashed changes
 enderio:primed_charge
 enderio:falling_machine
 enderio:owl_egg
@@ -419,26 +416,3 @@ xreliquary:thrown_fertility
 xreliquary:kraken_slime
 xreliquary:ender_staff_projectile
 xreliquary:tipped arrow
-wildnature:boar
-wildnature:duck_male
-wildnature:duck_female
-wildnature:duck_baby
-wildnature:goat_male
-wildnature:goat_female
-wildnature:goat_baby
-wildnature:goat_saanen_male
-wildnature:goat_saanen_female
-wildnature:goat_saanen_baby
-wildnature:camel_male
-wildnature:camel_female
-wildnature:camel_baby
-wildnature:bison_male
-wildnature:bison_female
-wildnature:bison_baby
-wildnature:cow_male
-wildnature:cow_female
-wildnature:cow_baby
-wildnature:wisent_male
-wildnature:wisent_female
-wildnature:wisent_baby
-wildnature:forester

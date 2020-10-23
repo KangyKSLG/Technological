@@ -11,10 +11,15 @@
 		"c21248d1"
 	],
 	tasks: [{
-		uid: "10999847",
+		uid: "7949a7a1",
 		type: "item",
 		items: [{
-			item: "thermalfoundation:material 1 160"
+			item: "enderio:item_alloy_ingot 1 4"
 		}]
+	}],
+	rewards: [{
+		uid: "ec6bd7c6",
+		type: "random",
+		table: 4
 	}]
 }
