@@ -22,6 +22,7 @@ import crafttweaker.oredict.IOreDictEntry;
     var infCat = <avaritia:resource:5>;
     var rainbowGen = <extrautils2:rainbowgenerator>;
     var singularity = <appliedenergistics2:material:48>;
+    var chaosShard = <draconicevolution:chaos_shard>;
 
     //Creative Energy Cell
 
@@ -41,14 +42,14 @@ import crafttweaker.oredict.IOreDictEntry;
 
     //Creative Draconic Flux Capacitor
         recipes.addShaped("Creative Flux Capacitor", creativeDracoFluxCap, [
-            [draconicFluxCap, null, draconicFluxCap],
-            [null, infCat, null],
-            [draconicFluxCap, null, draconicFluxCap]
+            [draconicFluxCap, chaosShard, draconicFluxCap],
+            [chaosShard, infCat, chaosShard],
+            [draconicFluxCap, chaosShard, draconicFluxCap]
         ]);
 
     //Creative Vending Upgrade
         recipes.addShaped("Creative Vending Upgrade", creativeVending, [
-            [<mysticalagradditions:insanium>, null, <mysticalagradditions:insanium>],
-            [null, infCat, null],
-            [<mysticalagradditions:insanium>, null, <mysticalagradditions:insanium>]
+            [null, <industrialforegoing:black_hole_unit>, null],
+            [<mekanism:basicblock:6>, infCat, <mekanism:basicblock:6>],
+            [null, <industrialforegoing:black_hole_unit>, null]
         ]);

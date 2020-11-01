@@ -168,6 +168,7 @@ mods.jei.JEI.removeAndHide(<refinedstorage:silicon>);
 mods.jei.JEI.removeAndHide(<enderio:item_material:5>);
 
 var refinedStorageSilicon = <refinedstorage:silicon>;
+<<<<<<< Updated upstream
 var siliconEssence = <mysticalagriculture:silicon_essence>;
 var aeSilicon = <appliedenergistics2:material:5>;
 
@@ -177,3 +178,6 @@ recipes.addShaped("Silicon", aeSilicon, [
     [null, siliconEssence, null],
     [null, null, null]
 ]);
+=======
+var aeSilicon = <appliedenergistics2:material:5>;
+>>>>>>> Stashed changes

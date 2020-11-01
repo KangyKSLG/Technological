@@ -60,8 +60,8 @@ minecraft:mutated_savanna_rock
 minecraft:mutated_mesa
 minecraft:mutated_mesa_rock
 minecraft:mutated_mesa_clear_rock
-randomthings:spectral
 jeid:error_biome
+randomthings:spectral
 appliedenergistics2:storage_biome
 iceandfire:glacier
 netherex:ruthless_sands
@@ -160,6 +160,16 @@ nt:glacier
 nt:icy_tundra
 nt:snowdune
 nt:tundra
+<<<<<<< Updated upstream
+=======
+nuclearcraft:nuclear_wasteland
+tardis:telos
+tardis:telos_orange
+tardis:moon
+tardis:redlands
+tardis:farmlands
+tardis:mountains
+>>>>>>> Stashed changes
 advancedrocketry:moon
 advancedrocketry:alien forest
 advancedrocketry:hotdryrock
@@ -173,8 +183,11 @@ advancedrocketry:moondark
 advancedrocketry:volcanic
 advancedrocketry:volcanicbarren
 aroma1997sdimension:miningbiome
+<<<<<<< Updated upstream
 dimdoors:limbo
 dimdoors:white_void
 dimdoors:black_void
 dimdoors:dangerous_black_void
 futureminecraf:frozenocean
+=======
+>>>>>>> Stashed changes

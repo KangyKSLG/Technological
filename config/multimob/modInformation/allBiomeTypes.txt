@@ -1,9 +1,15 @@
-WATER
 OCEAN
+WATER
 PLAINS
+<<<<<<< Updated upstream
 HOT
 DRY
 SANDY
+=======
+SANDY
+DRY
+HOT
+>>>>>>> Stashed changes
 MOUNTAIN
 HILLS
 FOREST
