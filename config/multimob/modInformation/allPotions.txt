@@ -25,8 +25,7 @@ minecraft:glowing
 minecraft:levitation
 minecraft:luck
 minecraft:unluck
-cyberware:neuropozyne
-cyberware:rejection
+ic2:radiation
 randomthings:imbue_fire
 randomthings:imbue_poison
 randomthings:imbue_experience
@@ -80,7 +79,6 @@ cyclicmagic:potion.frostwalker
 cyclicmagic:potion.butter
 cyclicmagic:potion.stunned
 cyclicmagic:potion.saturation
-futureminecraf:slowfall
 industrialwires:tinnitus
 extrautils2:effect.xu2.doom
 extrautils2:effect.xu2.gravity

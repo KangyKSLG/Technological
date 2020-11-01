@@ -34,10 +34,13 @@ extrautils2:xu.zoomerang
 extrautils2:xu.burnerang
 extrautils2:xu.bladerang
 extrautils2:xu.boomereaperang
-randomthings:magnetic
 openblocks:explosive
 openblocks:last_stand
 openblocks:flim_flam
+<<<<<<< Updated upstream
+=======
+randomthings:magnetic
+>>>>>>> Stashed changes
 advancedrocketry:spacebreathing
 endercore:autosmelt
 endercore:xpboost
@@ -46,6 +49,10 @@ enderio:witherweapon
 enderio:witherarrow
 enderio:soulbound
 enderio:shimmer
+<<<<<<< Updated upstream
+=======
+enderio:repellent
+>>>>>>> Stashed changes
 aerialaffinity:aerial_affinity
 bibliocraft:bibliocraft.deathcompassench
 bibliocraft:bibliocraft.readingench
@@ -54,6 +61,7 @@ spartanweaponry:throwing_range
 spartanweaponry:throwing_damage
 spartanweaponry:throwing_fire
 spartanweaponry:throwing_luck
+spartanshields:ssenchspikes
 tombstone:shadow_step
 tombstone:soulbound
 tombstone:magic_siphon

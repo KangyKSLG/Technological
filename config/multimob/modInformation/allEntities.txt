@@ -81,6 +81,19 @@ minecraft:llama_spit
 minecraft:parrot
 minecraft:villager
 minecraft:ender_crystal
+<<<<<<< Updated upstream
+=======
+ic2:mining_laser
+ic2:dynamite
+ic2:sticky_dynamite
+ic2:itnt
+ic2:nuke
+ic2:carbon_boat
+ic2:rubber_boat
+ic2:electric_boat
+ic2:particle
+ic2:fireproof_item
+>>>>>>> Stashed changes
 advancedrocketry:mountdummy
 advancedrocketry:rocket
 advancedrocketry:lasernode
@@ -112,7 +125,10 @@ avaritia:endest_pearl
 avaritia:gaping_void
 avaritia:heaven_arrow
 avaritia:heaven_sub_arrow
+<<<<<<< Updated upstream
 ichunutil:entity_block
+=======
+>>>>>>> Stashed changes
 bibliocraft:biblioseat
 buildinggadgets:blockbuildentity
 buildinggadgets:constructionblockentity
@@ -127,7 +143,6 @@ careerbees:beeswarm
 chickens:chickenschicken
 chickens:thown_egg
 clumps:xp_orb_big
-cyberware:cyberzombie
 darkutils:fake_tnt
 deepmoblearning:glitch
 deepmoblearning:glitch_orb
@@ -136,7 +151,6 @@ deepmoblearning:trial_spider
 deepmoblearning:trial_cave_spider
 deepmoblearning:trial_slime
 deepmoblearning:item_glitch_fragment
-dimdoors:mob_monolith
 endermail:ender_mailman
 enderutilities:enderarrow
 enderutilities:enderpearlreusable
@@ -146,8 +160,10 @@ enderutilities:fallingblock
 extrautils2:boomerang
 extrautils2:chunkdata
 fluxnetworks:flux
+ichunutil:entity_block
 immersivepetroleum:speedboat
 industrialforegoing:pink_slime
+<<<<<<< Updated upstream
 mysticalagriculture:inferium_arrow
 mysticalagriculture:prudentium_arrow
 mysticalagriculture:intermedium_arrow
@@ -167,6 +183,9 @@ randomthings:weathercloud
 randomthings:timeaccelerator
 randomthings:spectreilluminator
 randomthings:eclipsedclock
+=======
+multimob:dummy
+>>>>>>> Stashed changes
 matteroverdrive:failed_pig
 matteroverdrive:failed_cow
 matteroverdrive:failed_chicken
@@ -176,8 +195,6 @@ matteroverdrive:mutant_scientist
 matteroverdrive:rogue_android
 matteroverdrive:ranged_rogue_android
 matteroverdrive:drone
-multimob:dummy
-mysticaladaptations:insanium_arrow
 netherendingores:netherfish
 netherendingores:primedore
 openmods:block
@@ -226,14 +243,61 @@ primitivemobs:flame_spit
 primitivemobs:thrown_block
 primitivemobs:primitive_egg
 primitivemobs:spider_egg
+randomthings:playersoul
+randomthings:revivecircle
+randomthings:spirit
+randomthings:artificialendportal
+randomthings:projecteditem
+randomthings:floofireplace
+randomthings:fallingblockspecial
+randomthings:goldenchicken
+randomthings:goldenegg
+randomthings:thrownweatheregg
+randomthings:weathercloud
+randomthings:timeaccelerator
+randomthings:spectreilluminator
+randomthings:eclipsedclock
 redstonearsenal:flux_arrow
-wrcbe:tracker
+stevescarts:cart.0
+stevescarts:egg
+stevescarts:cake
+tardis:launch_lever
+tardis:x_valve
+tardis:y_valve
+tardis:z_valve
+tardis:dim_change
+tardis:rand_control
+tardis:tardis_door
+tardis:fuel
+tardis:land_type
+tardis:direction_control
+tardis:tardis_fast_return
+tardis:telepathic_circuts
+tardis:tardis_door_control
+tardis:tardis_phone
+tardis:tardis_magnitude
+tardis:sonic_slot
+tardis:stabilizers
+tardis:monitor
+tardis:waypoint_select
+tardis:cyber_ray
+tardis:toyota_corridor
+tardis:hellbent_corridor
+tardis:hellbent_door
+tardis:bessie
+tardis:companion
+tardis:dalek_scaro
+tardis:chair
+tardis:doors_brak_second
+tardis:tardis
+tardis:defabric
+tardis:invasion_cyberman
+tardis:dalek
 yoyos:yoyo
 yoyos:yoyo_sticky
 yoyos:yoyo_chaser
 industrialwires:broken_part
 securitycraft:bouncingbetty
-securitycraft:taserbullet
 securitycraft:imsbomb
 securitycraft:securitycamera
 securitycraft:sentry
@@ -242,7 +306,9 @@ appliedenergistics2:appeng.entity.entitytinytntprimed
 appliedenergistics2:appeng.entity.entitygrowingcrystal
 appliedenergistics2:appeng.entity.entitysingularity
 appliedenergistics2:appeng.entity.entitychargedquartz
+enderio:falling_machine
 enderio:primed_charge
+<<<<<<< Updated upstream
 enderio:falling_machine
 enderio:owl_egg
 projecte:water_projectile
@@ -254,6 +320,9 @@ projecte:nova_cataclysm_primed
 projecte:homing_arrow
 projecte:fire_projectile
 projecte:swrg_projectile
+=======
+enderio:owl_egg
+>>>>>>> Stashed changes
 tconstruct:blueslime
 tconstruct:indestructible
 tconstruct:arrow
@@ -370,7 +439,6 @@ spartanweaponry:arrow_explosive
 spartanweaponry:boomerang_thrown
 spartanweaponry:dynamite
 spartanweaponry:bolt_diamond
-futureminecraf:entitybullettrident
 thermaldynamics:transport
 actuallyadditions:worm
 p455w0rdslib:sitting_entity
@@ -378,6 +446,10 @@ creativecore:sit
 forestry:cart.beehouse
 forestry:cart.apiary
 forestry:butterflyge
+<<<<<<< Updated upstream
+=======
+engineersdecor:chair_entity
+>>>>>>> Stashed changes
 immersiveengineering:revolvershot
 immersiveengineering:skylinehook
 immersiveengineering:revolvershothoming
@@ -397,6 +469,7 @@ inventorypets:entitysteveballmer
 inventorypets:entitysatyanadella
 inventorypets:entitylivinganvil
 inventorypets:entitylivingbed
+nuclearcraft:feral_ghoul
 xreliquary:hand_grenade
 xreliquary:holy_water
 xreliquary:special_snowball
