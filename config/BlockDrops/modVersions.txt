@@ -1,6 +1,11 @@
 {
   "levelup2": "${version}",
   "blockdrops": "1.4.0",
+<<<<<<< Updated upstream
+=======
+  "prefab": "1.3.0.26",
+  "redstonerepository": "1.3.2",
+>>>>>>> Stashed changes
   "draconicevolution": "2.3.27",
   "jeroreintegration": "1.1.0",
   "projecte": "1.12.2-PE1.4.1",
@@ -23,6 +28,7 @@
   "secretroomsmod": "5.6.4",
   "apotheosis": "1.12.4",
   "darkutils": "1.8.230",
+  "rpintegration": "1.12.2-1.5.1.0",
   "morpheus": "1.12.2-3.5.106",
   "ftblib": "5.4.7.2",
   "enderioconduitsrefinedstorage": "5.2.61",
@@ -39,17 +45,25 @@
   "industrialforegoing": "1.12.2-1.12.2",
   "threng": "1.1.21",
   "malisiscore": "1.12.2-6.5.1-SNAPSHOT",
+  "advanced_machines": "61.0.1",
   "torchmaster": "1.8.4.84",
   "unidict": "1.12.2-2.9.7",
   "redstoneflux": "2.1.1",
   "modtweaker": "4.0.18",
   "gendustry": "1.6.5.8",
   "resourceloader": "1.5.3",
+<<<<<<< Updated upstream
   "mysticaladaptations": "1.8.3",
   "shadowmc": "3.8.0",
   "morechickens": "3.1.0",
   "topaddons": "1.12.2-1.13.0",
   "otgcore": "1.12.2 - v8.3",
+=======
+  "ic2": "2.8.170-ex112",
+  "morechickens": "3.1.0",
+  "topaddons": "1.12.2-1.13.0",
+  "advgenerators": "0.9.20.12",
+>>>>>>> Stashed changes
   "teslacorelib": "1.0.17",
   "FML": "8.0.99.99",
   "thermalexpansion": "5.5.7",
@@ -73,7 +87,10 @@
   "woot": "1.12.2-1.4.11",
   "jee": "1.0.8",
   "projectintelligence": "1.0.9",
+<<<<<<< Updated upstream
   "mystagradcompat": "1.2",
+=======
+>>>>>>> Stashed changes
   "lteleporters": "1.12.2-3.0.2",
   "smoothfont": "mc1.12.2-2.1.2",
   "jei": "4.16.1.301",
@@ -101,6 +118,7 @@
   "crafttweaker": "4.1.20",
   "immersivepetroleum": "1.1.9",
   "forge": "14.23.5.2854",
+  "ruins": "17.2",
   "phosphor-lighting": "1.12.2-0.2.6",
   "ftbutilities": "5.4.1.130",
   "dsurround": "3.6.1.0",
@@ -123,7 +141,12 @@
   "mantle": "1.12-1.3.3.55",
   "integrateddynamics": "1.1.10",
   "jeivillagers": "1.0",
+<<<<<<< Updated upstream
   "securitycraft": "v1.8.19.3",
+=======
+  "advancedrocketrycore": "1",
+  "securitycraft": "v1.8.20.1",
+>>>>>>> Stashed changes
   "autoreglib": "1.3-32",
   "libraryex": "1.1.3",
   "gendustryjei": "1.0.2",
@@ -142,14 +165,18 @@
   "cyclopscore": "1.6.6",
   "p455w0rdslib": "2.3.161",
   "enderiointegrationforestry": "5.2.61",
+  "modularmachinery": "1.11.1",
   "netherportalfix": "5.3.17",
   "universalmodifiers": "1.12.2-1.0.16.1",
   "creativecoredummy": "1.0.0",
   "rftools": "7.73",
   "openmods": "0.12.2",
   "avaritiatweaks": "@VERSION@",
+<<<<<<< Updated upstream
   "clipboard": "@VERSION@",
   "jecalculation": "1.12.2-3.2.4",
+=======
+>>>>>>> Stashed changes
   "cofhcore": "4.6.6",
   "kleeslabs": "5.4.12",
   "immersivecables": "1.3.2",
@@ -163,17 +190,23 @@
   "fencejumper": "1.0.5",
   "culinaryconstruct": "1.3.4",
   "bookshelf": "2.3.590",
+<<<<<<< Updated upstream
   "equivalentenergistics": "0.8.3",
   "projectex": "1.2.0.40",
   "ironbackpacks": "1.12.2-3.0.8-12",
+=======
+  "huntingdim": "1.0.42",
+>>>>>>> Stashed changes
   "streams": "0.4.8",
   "buildinggadgets": "2.8.4",
   "wct": "3.12.97",
   "cofhworld": "1.4.0",
   "mcwdoors": "1.0",
+  "additionalstructures": "2.3.1",
   "mekanismgenerators": "1.12.2-9.8.3.390",
   "chickens": "6.0.4",
   "mcjtylib_ng": "3.5.4",
+  "fbp": "2.4.1",
   "hydrogel": "1.1.0",
   "mob_grinding_utils": "0.3.13",
   "immersivetech": "1.3.10",
@@ -229,6 +262,7 @@
   "defaultworldgenerator-port": "1.12-2.3",
   "chunkpregenerator": "2.1",
   "ivtoolkit": "1.3.3-1.12",
+  "redstonepaste": "1.7.5",
   "waystones": "4.1.0",
   "yoyos": "1.12.2-1.3.3.25",
   "mcp": "9.42",
@@ -242,9 +276,14 @@
   "jeid": "1.0.3-55",
   "foamfixcore": "7.7.4",
   "omlib": "3.1.4-249",
+<<<<<<< Updated upstream
   "integrateddynamicscompat": "1.0.0",
+=======
+  "moartinkers": "0.6.0",
+>>>>>>> Stashed changes
   "bonsaitrees": "1.1.4",
   "toastcontrol": "1.8.1",
+  "walljump": "1.3.2",
   "ichunutil": "7.2.2",
   "inventorypets": "2.0.6",
   "enderstorage": "2.4.6.137",
@@ -252,6 +291,7 @@
   "progressiveautomation": "1.7.8",
   "akashictome": "1.2-12",
   "brandonscore": "2.4.19",
+  "colossalchests": "1.7.3",
   "orelib": "3.6.0.1",
   "mysticalagriculture": "1.7.5",
   "openblocks": "1.8.1",
@@ -264,7 +304,11 @@
   "baubles": "1.5.2",
   "roost": "2.0.10",
   "creativecore": "1.10.0",
+<<<<<<< Updated upstream
   "futureminecraf": "1.3.0.2",
+=======
+  "stevescarts": "2.4.32.137",
+>>>>>>> Stashed changes
   "integrationforegoing": "1.12.2-1.10",
   "enderio": "5.2.61",
   "justenoughpetroleum": "0.1",
@@ -277,7 +321,11 @@
   "storagedrawers": "5.2.2",
   "tinker_io": "rw2.8.2",
   "natura": "1.12.2-4.3.2.69",
+<<<<<<< Updated upstream
   "wrapup": "1.12-1.1.3",
+=======
+  "animalium": "0.3.8",
+>>>>>>> Stashed changes
   "gasconduits": "1.12.2-1.2.4",
   "enderiobase": "5.2.61",
   "wrcbe": "2.3.2",

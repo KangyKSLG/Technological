@@ -64,7 +64,11 @@ randomthings:spectral
 jeid:error_biome
 appliedenergistics2:storage_biome
 iceandfire:glacier
+<<<<<<< Updated upstream
 integrateddynamics:biome_meneglin
+=======
+nuclearcraft:nuclear_wasteland
+>>>>>>> Stashed changes
 netherex:ruthless_sands
 netherex:fungi_forest
 netherex:torrid_wasteland
@@ -161,6 +165,7 @@ nt:glacier
 nt:icy_tundra
 nt:snowdune
 nt:tundra
+<<<<<<< Updated upstream
 aroma1997sdimension:miningbiome
 dimdoors:limbo
 dimdoors:white_void
@@ -250,3 +255,24 @@ wildnature:masuria
 wildnature:madagascar_pasture
 wildnature:madagascar_rainforest
 wildnature:himalayas
+=======
+tardis:telos
+tardis:telos_orange
+tardis:moon
+tardis:redlands
+tardis:farmlands
+tardis:mountains
+advancedrocketry:moon
+advancedrocketry:alien forest
+advancedrocketry:hotdryrock
+advancedrocketry:space
+advancedrocketry:stormland
+advancedrocketry:crystalchasms
+advancedrocketry:deepswamp
+advancedrocketry:marsh
+advancedrocketry:oceanspires
+advancedrocketry:moondark
+advancedrocketry:volcanic
+advancedrocketry:volcanicbarren
+aroma1997sdimension:miningbiome
+>>>>>>> Stashed changes

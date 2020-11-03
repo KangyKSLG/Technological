@@ -1,14 +1,24 @@
 WATER
 OCEAN
 PLAINS
+<<<<<<< Updated upstream
 DRY
 HOT
 SANDY
 MOUNTAIN
+=======
+SANDY
+DRY
+HOT
+>>>>>>> Stashed changes
 HILLS
+MOUNTAIN
 FOREST
-COLD
 CONIFEROUS
+<<<<<<< Updated upstream
+=======
+COLD
+>>>>>>> Stashed changes
 WET
 SWAMP
 RIVER
@@ -19,8 +29,8 @@ WASTELAND
 MUSHROOM
 RARE
 BEACH
-JUNGLE
 DENSE
+JUNGLE
 SPOOKY
 SPARSE
 SAVANNA

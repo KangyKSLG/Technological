@@ -81,6 +81,29 @@ minecraft:llama_spit
 minecraft:parrot
 minecraft:villager
 minecraft:ender_crystal
+<<<<<<< Updated upstream
+=======
+ic2:mining_laser
+ic2:dynamite
+ic2:sticky_dynamite
+ic2:itnt
+ic2:nuke
+ic2:carbon_boat
+ic2:rubber_boat
+ic2:electric_boat
+ic2:particle
+ic2:fireproof_item
+advancedrocketry:mountdummy
+advancedrocketry:rocket
+advancedrocketry:lasernode
+advancedrocketry:deployedrocket
+advancedrocketry:arabducteditem
+advancedrocketry:arplanetuiitem
+advancedrocketry:arplanetuibutton
+advancedrocketry:arstaruibutton
+advancedrocketry:arspaceelevatorcapsule
+advancedrocketry:arhovercraft
+>>>>>>> Stashed changes
 thermalfoundation:blizz
 thermalfoundation:blitz
 thermalfoundation:basalz
@@ -98,11 +121,20 @@ draconicevolution:lootcore
 draconicevolution:enderenergymanipulator
 thermalexpansion:florb
 thermalexpansion:morb
+animalium:piranha
+animalium:wild_dog
+animalium:bear
+animalium:bear_tamed
+animalium:rat
 avaritia:endest_pearl
 avaritia:gaping_void
 avaritia:heaven_arrow
 avaritia:heaven_sub_arrow
+<<<<<<< Updated upstream
 ichunutil:entity_block
+=======
+bibliocraft:biblioseat
+>>>>>>> Stashed changes
 buildinggadgets:blockbuildentity
 buildinggadgets:constructionblockentity
 cyclicmagic:robot
@@ -137,12 +169,15 @@ extrautils2:chunkdata
 fluxnetworks:flux
 immersivepetroleum:speedboat
 industrialforegoing:pink_slime
+<<<<<<< Updated upstream
 integrateddynamics:entityitemtargetted
 mysticalagriculture:inferium_arrow
 mysticalagriculture:prudentium_arrow
 mysticalagriculture:intermedium_arrow
 mysticalagriculture:superium_arrow
 mysticalagriculture:supremium_arrow
+=======
+>>>>>>> Stashed changes
 randomthings:playersoul
 randomthings:revivecircle
 randomthings:spirit
@@ -167,7 +202,10 @@ matteroverdrive:rogue_android
 matteroverdrive:ranged_rogue_android
 matteroverdrive:drone
 multimob:dummy
+<<<<<<< Updated upstream
 mysticaladaptations:insanium_arrow
+=======
+>>>>>>> Stashed changes
 netherendingores:netherfish
 netherendingores:primedore
 openmods:block
@@ -217,6 +255,44 @@ primitivemobs:thrown_block
 primitivemobs:primitive_egg
 primitivemobs:spider_egg
 redstonearsenal:flux_arrow
+<<<<<<< Updated upstream
+=======
+stevescarts:cart.0
+stevescarts:egg
+stevescarts:cake
+tardis:launch_lever
+tardis:x_valve
+tardis:y_valve
+tardis:z_valve
+tardis:dim_change
+tardis:rand_control
+tardis:tardis_door
+tardis:fuel
+tardis:land_type
+tardis:direction_control
+tardis:tardis_fast_return
+tardis:telepathic_circuts
+tardis:tardis_door_control
+tardis:tardis_phone
+tardis:tardis_magnitude
+tardis:sonic_slot
+tardis:stabilizers
+tardis:monitor
+tardis:waypoint_select
+tardis:cyber_ray
+tardis:toyota_corridor
+tardis:hellbent_corridor
+tardis:hellbent_door
+tardis:bessie
+tardis:companion
+tardis:dalek_scaro
+tardis:chair
+tardis:doors_brak_second
+tardis:tardis
+tardis:defabric
+tardis:invasion_cyberman
+tardis:dalek
+>>>>>>> Stashed changes
 wrcbe:tracker
 yoyos:yoyo
 yoyos:yoyo_sticky
@@ -232,6 +308,7 @@ appliedenergistics2:appeng.entity.entitytinytntprimed
 appliedenergistics2:appeng.entity.entitygrowingcrystal
 appliedenergistics2:appeng.entity.entitysingularity
 appliedenergistics2:appeng.entity.entitychargedquartz
+<<<<<<< Updated upstream
 enderio:primed_charge
 enderio:owl_egg
 enderio:falling_machine
@@ -244,6 +321,11 @@ projecte:nova_cataclysm_primed
 projecte:homing_arrow
 projecte:fire_projectile
 projecte:swrg_projectile
+=======
+enderio:owl_egg
+enderio:falling_machine
+enderio:primed_charge
+>>>>>>> Stashed changes
 tconstruct:blueslime
 tconstruct:indestructible
 tconstruct:arrow
@@ -368,6 +450,10 @@ creativecore:sit
 forestry:butterflyge
 forestry:cart.beehouse
 forestry:cart.apiary
+<<<<<<< Updated upstream
+=======
+engineersdecor:chair_entity
+>>>>>>> Stashed changes
 immersiveengineering:revolvershot
 immersiveengineering:skylinehook
 immersiveengineering:revolvershothoming
@@ -377,6 +463,7 @@ immersiveengineering:railgunshot
 immersiveengineering:revolvershotflare
 immersiveengineering:explosive
 immersiveengineering:fluorescenttube
+nuclearcraft:feral_ghoul
 inventorypets:entitybanana
 inventorypets:entityminiquantumblaze
 inventorypets:entityminiquantumenderman

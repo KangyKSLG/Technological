@@ -38,6 +38,7 @@ randomthings:magnetic
 openblocks:explosive
 openblocks:last_stand
 openblocks:flim_flam
+<<<<<<< Updated upstream
 endercore:autosmelt
 endercore:xpboost
 enderio:witherweapon
@@ -45,6 +46,19 @@ enderio:soulbound
 enderio:witherarrow
 enderio:shimmer
 enderio:repellent
+=======
+advancedrocketry:spacebreathing
+endercore:xpboost
+endercore:autosmelt
+enderio:witherarrow
+enderio:witherweapon
+enderio:repellent
+enderio:shimmer
+enderio:soulbound
+aerialaffinity:aerial_affinity
+bibliocraft:bibliocraft.deathcompassench
+bibliocraft:bibliocraft.readingench
+>>>>>>> Stashed changes
 matteroverdrive:overclock
 spartanweaponry:throwing_range
 spartanweaponry:throwing_damage
@@ -54,6 +68,9 @@ tombstone:shadow_step
 tombstone:soulbound
 tombstone:magic_siphon
 tombstone:plague_bringer
+walljump:walljump
+walljump:doublejump
+walljump:speedboost
 woot:headhunter
 yoyos:collecting
 cofhcore:holding

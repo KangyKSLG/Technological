@@ -38,13 +38,21 @@ minecraft:luck
 randomthings:collapse
 randomthings:long_collapse
 randomthings:strong_collapse
+<<<<<<< Updated upstream
 enderio:confusion
 enderio:long_confusion
+=======
+>>>>>>> Stashed changes
 enderio:withering
 enderio:long_withering
 enderio:floating
 enderio:strong_floating
 enderio:long_floating
+<<<<<<< Updated upstream
+=======
+enderio:confusion
+enderio:long_confusion
+>>>>>>> Stashed changes
 netherex:freezing
 netherex:frigid_health
 netherex:dispersal
