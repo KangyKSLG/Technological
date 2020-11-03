@@ -1,0 +1,52 @@
+{
+	title: "Superium Armour",
+	x: -18.0d,
+	y: -2.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"0ae32bb9"
+	],
+	tasks: [{
+		uid: "df0f5199",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:superium_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "59175924",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:superium_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8bfe1207",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:superium_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "63786e1d",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:superium_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "184fa0e1",
+		type: "random",
+		table: 4
+	}]
+}

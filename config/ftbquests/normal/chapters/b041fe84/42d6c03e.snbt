@@ -1,0 +1,19 @@
+{
+	x: -26.0d,
+	y: 0.0d,
+	text: [
+		"To make mystical plants you need to make crafting seeds. Different plant seeds require different tier crafting seeds"
+	],
+	tasks: [{
+		uid: "d32d5474",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:crafting 1 17"
+		}]
+	}],
+	rewards: [{
+		uid: "b864004f",
+		type: "random",
+		table: 4
+	}]
+}

@@ -165,8 +165,27 @@ recipes.addShaped(<thermalfoundation:material:295>, [
 
 //Duplicate Silicon
 mods.jei.JEI.removeAndHide(<refinedstorage:silicon>);
+<<<<<<< HEAD
 furnace.remove(<refinedstorage:silicon>)
 mods.jei.JEI.removeAndHide(<enderio:item_material:5>);
 
 var refinedStorageSilicon = <refinedstorage:silicon>;
 var aeSilicon = <appliedenergistics2:material:5>;
+=======
+mods.jei.JEI.removeAndHide(<enderio:item_material:5>);
+
+var refinedStorageSilicon = <refinedstorage:silicon>;
+<<<<<<< Updated upstream
+var siliconEssence = <mysticalagriculture:silicon_essence>;
+var aeSilicon = <appliedenergistics2:material:5>;
+
+//Add recipe for Silicon from silicon essence
+recipes.addShaped("Silicon", aeSilicon, [
+    [siliconEssence, null, siliconEssence],
+    [null, siliconEssence, null],
+    [null, null, null]
+]);
+=======
+var aeSilicon = <appliedenergistics2:material:5>;
+>>>>>>> Stashed changes
+>>>>>>> master

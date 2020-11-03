@@ -1,0 +1,26 @@
+{
+	title: "To Infinity.. And Beyond!",
+	x: -14.0d,
+	y: -2.0d,
+	text: [
+		"Now you've got your awesome, cheap to repair pickaxe, it's time to start making your way towards RF power and machines!",
+		"You'll need lots of various metals and some Grains of Infinity. Grab a flint and steel, take it down to bedrock and light the bedrock on fire. ",
+		"Around 50% of the time youll hear a pop. This is the Grains of Infinity being created. Collect 20+ for now"
+	],
+	dependencies: [
+		"75b7337b"
+	],
+	tasks: [{
+		uid: "a9ffe03d",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 20"
+		}],
+		count: 20L
+	}],
+	rewards: [{
+		uid: "f093f22c",
+		type: "random",
+		table: 4
+	}]
+}

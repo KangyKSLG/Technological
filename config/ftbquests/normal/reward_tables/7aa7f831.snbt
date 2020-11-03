@@ -1,6 +1,6 @@
 {
 	title: "Main Table",
-	icon: "botania:dice",
+	icon: "chisel:futura 1 3",
 	loot_size: 1,
 	hide_tooltip: true,
 	rewards: [{
@@ -20,11 +20,6 @@
 		weight: 30
 	},
 	{
-		item: "chancecubes:chance_cube",
-		count: 8,
-		weight: 30
-	},
-	{
 		item: "tp:cobblegen_block",
 		weight: 30
 	},
@@ -35,11 +30,6 @@
 	{
 		item: "harvestcraft:epicbaconitem",
 		count: 12,
-		weight: 30
-	},
-	{
-		item: "botania:blacklotus",
-		count: 8,
 		weight: 30
 	},
 	{
@@ -93,11 +83,6 @@
 		weight: 8
 	},
 	{
-		item: "thaumcraft:ingot 1 1",
-		count: 2,
-		weight: 8
-	},
-	{
 		item: "appliedenergistics2:drive",
 		weight: 8
 	},
@@ -137,14 +122,6 @@
 	},
 	{
 		item: "mysticalagradditions:storage",
-		weight: 6
-	},
-	{
-		item: "chancecubes:silk_touch_pendant",
-		weight: 6
-	},
-	{
-		item: "quantumflux:imaginarytime",
 		weight: 6
 	},
 	{
@@ -240,35 +217,6 @@
 		weight: 7
 	},
 	{
-		item: {
-			id: "exchangers:resonant_exchanger",
-			tag: {
-				exmode: 0,
-				forceDropItems: 0b,
-				Energy: 20000000,
-				range: 0,
-				blockstate: {
-					Name: "minecraft:air"
-				}
-			}
-		},
-		weight: 4
-	},
-	{
-		item: {
-			ForgeCaps: {
-				Parent: {}
-			},
-			id: "yabba:upgrade_diamond_tier"
-		},
-		count: 2,
-		weight: 20
-	},
-	{
-		item: "exnihilocreatio:block_auto_sifter",
-		weight: 25
-	},
-	{
 		item: "immersiveengineering:metal_device1 1 13",
 		weight: 15
 	},
@@ -325,103 +273,6 @@
 		team_reward: true,
 		item: "thermalfoundation:tome_lexicon",
 		weight: 24
-	},
-	{
-		team_reward: true,
-		item: {
-			ForgeCaps: {
-				"plustic:": {
-					Size: 1,
-					Items: []
-				},
-				"plustic:fruitsalad_cap": {
-					Size: 5,
-					Items: []
-				},
-				"plustic:musicofthespheres_cap": {
-					Size: 1,
-					Items: []
-				}
-			},
-			id: "plustic:laser_gun",
-			tag: {
-				StatsOriginal: {
-					AttackSpeedMultiplier: 1.0f,
-					LaserGunPower: 2.5f,
-					MiningSpeed: 6.0f,
-					FreeModifiers: 3,
-					Durability: 780,
-					HarvestLevel: 3,
-					LaserGunEnergy: 120000,
-					Attack: 2.5f,
-					LaserGunRange: 20.0f
-				},
-				LockCooldown: 0,
-				Stats: {
-					AttackSpeedMultiplier: 1.0f,
-					LaserGunPower: 2.5f,
-					MiningSpeed: 6.0f,
-					FreeModifiers: 3,
-					Durability: 780,
-					HarvestLevel: 3,
-					LaserGunEnergy: 120000,
-					Attack: 2.5f,
-					LaserGunRange: 20.0f
-				},
-				Special: {
-					Categories: [
-						"weapon",
-						"tool"
-					]
-				},
-				AttackDuration: 0,
-				TinkerData: {
-					Materials: [
-						"invar",
-						"invar",
-						"prismarine",
-						"manyullyn"
-					],
-					Modifiers: [
-						"toolleveling"
-					]
-				},
-				Modifiers: [{
-					identifier: "devilsstrength",
-					color: -2697514,
-					level: 1
-				},
-				{
-					identifier: "magnetic",
-					color: -2697514,
-					level: 1,
-					magnetic1: 1b
-				},
-				{
-					identifier: "aquadynamic",
-					color: -8462660,
-					level: 1
-				},
-				{
-					identifier: "coldblooded",
-					color: -6202120,
-					level: 1
-				},
-				{
-					identifier: "toolleveling",
-					color: 16777215,
-					level: 1
-				}],
-				Traits: [
-					"devilsstrength",
-					"magnetic1",
-					"aquadynamic",
-					"coldblooded",
-					"toolleveling"
-				]
-			}
-		},
-		weight: 15
 	},
 	{
 		team_reward: true,

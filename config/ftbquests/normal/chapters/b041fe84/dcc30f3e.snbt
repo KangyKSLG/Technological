@@ -1,0 +1,21 @@
+{
+	title: "Inferium Seed Tier 1",
+	x: -26.0d,
+	y: -8.0d,
+	text: [
+		"To get stated with Mystical Agriculture you need to collect a fair bit of inferium essence. ",
+		"Start by crafting 5 tier 1 inferium seeds and planting them as you would any other crop"
+	],
+	tasks: [{
+		uid: "f3efd2fb",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:tier1_inferium_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "0ca5d1a6",
+		type: "random",
+		table: 4
+	}]
+}

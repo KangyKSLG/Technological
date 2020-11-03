@@ -1,0 +1,52 @@
+{
+	title: "Prudentium Armour",
+	x: -22.0d,
+	y: -2.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"aa59d42b"
+	],
+	tasks: [{
+		uid: "86699c87",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:prudentium_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b5d0513d",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:prudentium_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "269ca211",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:prudentium_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8385d784",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:prudentium_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e663a282",
+		type: "random",
+		table: 4
+	}]
+}
