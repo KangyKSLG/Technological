@@ -787,6 +787,8 @@
     "Spawn Type": "NONE",
     "Parent 1": "chickens:quartzchicken",
     "Parent 2": "chickens:ironchicken"
+<<<<<<< Updated upstream
+=======
   },
   "morechickens:titaniumchicken": {
     "Name": "titaniumchicken",
@@ -797,8 +799,6 @@
     "Spawn Type": "NONE",
     "Parent 1": "chickens:ironchicken",
     "Parent 2": "morechickens:aluminumchicken"
-<<<<<<< Updated upstream
-=======
   },
   "morechickens:refinedironchicken": {
     "Name": "refinedironchicken",

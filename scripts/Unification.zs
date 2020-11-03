@@ -165,6 +165,13 @@ recipes.addShaped(<thermalfoundation:material:295>, [
 
 //Duplicate Silicon
 mods.jei.JEI.removeAndHide(<refinedstorage:silicon>);
+<<<<<<< HEAD
+furnace.remove(<refinedstorage:silicon>)
+mods.jei.JEI.removeAndHide(<enderio:item_material:5>);
+
+var refinedStorageSilicon = <refinedstorage:silicon>;
+var aeSilicon = <appliedenergistics2:material:5>;
+=======
 mods.jei.JEI.removeAndHide(<enderio:item_material:5>);
 
 var refinedStorageSilicon = <refinedstorage:silicon>;
@@ -181,3 +188,4 @@ recipes.addShaped("Silicon", aeSilicon, [
 =======
 var aeSilicon = <appliedenergistics2:material:5>;
 >>>>>>> Stashed changes
+>>>>>>> master

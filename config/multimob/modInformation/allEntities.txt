@@ -93,7 +93,6 @@ ic2:rubber_boat
 ic2:electric_boat
 ic2:particle
 ic2:fireproof_item
->>>>>>> Stashed changes
 advancedrocketry:mountdummy
 advancedrocketry:rocket
 advancedrocketry:lasernode
@@ -104,6 +103,7 @@ advancedrocketry:arplanetuibutton
 advancedrocketry:arstaruibutton
 advancedrocketry:arspaceelevatorcapsule
 advancedrocketry:arhovercraft
+>>>>>>> Stashed changes
 thermalfoundation:blizz
 thermalfoundation:blitz
 thermalfoundation:basalz
@@ -121,6 +121,11 @@ draconicevolution:lootcore
 draconicevolution:enderenergymanipulator
 thermalexpansion:florb
 thermalexpansion:morb
+animalium:piranha
+animalium:wild_dog
+animalium:bear
+animalium:bear_tamed
+animalium:rat
 avaritia:endest_pearl
 avaritia:gaping_void
 avaritia:heaven_arrow
@@ -128,8 +133,8 @@ avaritia:heaven_sub_arrow
 <<<<<<< Updated upstream
 ichunutil:entity_block
 =======
->>>>>>> Stashed changes
 bibliocraft:biblioseat
+>>>>>>> Stashed changes
 buildinggadgets:blockbuildentity
 buildinggadgets:constructionblockentity
 cyclicmagic:robot
@@ -143,6 +148,7 @@ careerbees:beeswarm
 chickens:chickenschicken
 chickens:thown_egg
 clumps:xp_orb_big
+cyberware:cyberzombie
 darkutils:fake_tnt
 deepmoblearning:glitch
 deepmoblearning:glitch_orb
@@ -151,6 +157,7 @@ deepmoblearning:trial_spider
 deepmoblearning:trial_cave_spider
 deepmoblearning:trial_slime
 deepmoblearning:item_glitch_fragment
+dimdoors:mob_monolith
 endermail:ender_mailman
 enderutilities:enderarrow
 enderutilities:enderpearlreusable
@@ -160,15 +167,17 @@ enderutilities:fallingblock
 extrautils2:boomerang
 extrautils2:chunkdata
 fluxnetworks:flux
-ichunutil:entity_block
 immersivepetroleum:speedboat
 industrialforegoing:pink_slime
 <<<<<<< Updated upstream
+integrateddynamics:entityitemtargetted
 mysticalagriculture:inferium_arrow
 mysticalagriculture:prudentium_arrow
 mysticalagriculture:intermedium_arrow
 mysticalagriculture:superium_arrow
 mysticalagriculture:supremium_arrow
+=======
+>>>>>>> Stashed changes
 randomthings:playersoul
 randomthings:revivecircle
 randomthings:spirit
@@ -183,9 +192,6 @@ randomthings:weathercloud
 randomthings:timeaccelerator
 randomthings:spectreilluminator
 randomthings:eclipsedclock
-=======
-multimob:dummy
->>>>>>> Stashed changes
 matteroverdrive:failed_pig
 matteroverdrive:failed_cow
 matteroverdrive:failed_chicken
@@ -195,6 +201,11 @@ matteroverdrive:mutant_scientist
 matteroverdrive:rogue_android
 matteroverdrive:ranged_rogue_android
 matteroverdrive:drone
+multimob:dummy
+<<<<<<< Updated upstream
+mysticaladaptations:insanium_arrow
+=======
+>>>>>>> Stashed changes
 netherendingores:netherfish
 netherendingores:primedore
 openmods:block
@@ -243,21 +254,9 @@ primitivemobs:flame_spit
 primitivemobs:thrown_block
 primitivemobs:primitive_egg
 primitivemobs:spider_egg
-randomthings:playersoul
-randomthings:revivecircle
-randomthings:spirit
-randomthings:artificialendportal
-randomthings:projecteditem
-randomthings:floofireplace
-randomthings:fallingblockspecial
-randomthings:goldenchicken
-randomthings:goldenegg
-randomthings:thrownweatheregg
-randomthings:weathercloud
-randomthings:timeaccelerator
-randomthings:spectreilluminator
-randomthings:eclipsedclock
 redstonearsenal:flux_arrow
+<<<<<<< Updated upstream
+=======
 stevescarts:cart.0
 stevescarts:egg
 stevescarts:cake
@@ -293,11 +292,14 @@ tardis:tardis
 tardis:defabric
 tardis:invasion_cyberman
 tardis:dalek
+>>>>>>> Stashed changes
+wrcbe:tracker
 yoyos:yoyo
 yoyos:yoyo_sticky
 yoyos:yoyo_chaser
 industrialwires:broken_part
 securitycraft:bouncingbetty
+securitycraft:taserbullet
 securitycraft:imsbomb
 securitycraft:securitycamera
 securitycraft:sentry
@@ -306,11 +308,10 @@ appliedenergistics2:appeng.entity.entitytinytntprimed
 appliedenergistics2:appeng.entity.entitygrowingcrystal
 appliedenergistics2:appeng.entity.entitysingularity
 appliedenergistics2:appeng.entity.entitychargedquartz
-enderio:falling_machine
-enderio:primed_charge
 <<<<<<< Updated upstream
-enderio:falling_machine
+enderio:primed_charge
 enderio:owl_egg
+enderio:falling_machine
 projecte:water_projectile
 projecte:lava_projectile
 projecte:mob_randomizer
@@ -322,6 +323,8 @@ projecte:fire_projectile
 projecte:swrg_projectile
 =======
 enderio:owl_egg
+enderio:falling_machine
+enderio:primed_charge
 >>>>>>> Stashed changes
 tconstruct:blueslime
 tconstruct:indestructible
@@ -439,13 +442,14 @@ spartanweaponry:arrow_explosive
 spartanweaponry:boomerang_thrown
 spartanweaponry:dynamite
 spartanweaponry:bolt_diamond
+futureminecraf:entitybullettrident
 thermaldynamics:transport
 actuallyadditions:worm
 p455w0rdslib:sitting_entity
 creativecore:sit
+forestry:butterflyge
 forestry:cart.beehouse
 forestry:cart.apiary
-forestry:butterflyge
 <<<<<<< Updated upstream
 =======
 engineersdecor:chair_entity
@@ -459,6 +463,7 @@ immersiveengineering:railgunshot
 immersiveengineering:revolvershotflare
 immersiveengineering:explosive
 immersiveengineering:fluorescenttube
+nuclearcraft:feral_ghoul
 inventorypets:entitybanana
 inventorypets:entityminiquantumblaze
 inventorypets:entityminiquantumenderman
@@ -469,7 +474,6 @@ inventorypets:entitysteveballmer
 inventorypets:entitysatyanadella
 inventorypets:entitylivinganvil
 inventorypets:entitylivingbed
-nuclearcraft:feral_ghoul
 xreliquary:hand_grenade
 xreliquary:holy_water
 xreliquary:special_snowball
@@ -489,3 +493,26 @@ xreliquary:thrown_fertility
 xreliquary:kraken_slime
 xreliquary:ender_staff_projectile
 xreliquary:tipped arrow
+wildnature:boar
+wildnature:duck_male
+wildnature:duck_female
+wildnature:duck_baby
+wildnature:goat_male
+wildnature:goat_female
+wildnature:goat_baby
+wildnature:goat_saanen_male
+wildnature:goat_saanen_female
+wildnature:goat_saanen_baby
+wildnature:camel_male
+wildnature:camel_female
+wildnature:camel_baby
+wildnature:bison_male
+wildnature:bison_female
+wildnature:bison_baby
+wildnature:cow_male
+wildnature:cow_female
+wildnature:cow_baby
+wildnature:wisent_male
+wildnature:wisent_female
+wildnature:wisent_baby
+wildnature:forester
